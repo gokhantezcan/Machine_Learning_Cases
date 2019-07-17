@@ -1,1 +1,1 @@
-1) Logistic Regression Classification case is used for predict malignant and benign tumors. In this case setup, 96 percent success is obtained.
+1) Logistic Regression Classification case is used for predict malignant and benign tumors. In this case setup, approximately 96 percent success is obtained. Breast Cancer Wisconsin (Diagnostic) Data Set is used for training and testing (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
